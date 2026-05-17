@@ -216,6 +216,13 @@ Saved:
 Using:
 pickle
 
+# 🚀 Project Deployment
+
+The Student Mental Health Survey Analysis project has been deployed using Hugging Face Spaces.
+
+🔗 Live Application:
+https://huggingface.co/spaces/Swathi-G/Student_Mental_Health_Survey_Analysis
+
 ---
 
 # 📁 Project Structure
@@ -229,15 +236,19 @@ pickle
 ├── xgb_model.pkl
 └── README.md
 
+---
 
-🔮 Future Improvements
-Deploy as a web application using Streamlit
-Add Deep Learning models
-Build real-time student mental health dashboard
-Integrate chatbot-based mental health support
-Improve interpretability using SHAP values
+# 🔮 Future Improvements
 
-📚 Conclusion
+- Deploy the project as an interactive web application using Streamlit
+- Implement Deep Learning models for improved prediction accuracy
+- Develop a real-time student mental health monitoring dashboard
+- Integrate AI chatbot-based mental health assistance and support
+- Enhance model interpretability using SHAP values for better insights
+
+---
+
+# 📚 Conclusion
 
 This project demonstrates how Machine Learning can help analyze and predict student depression using psychological, academic, and lifestyle data.
 
